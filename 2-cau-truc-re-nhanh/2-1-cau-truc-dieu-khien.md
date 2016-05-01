@@ -47,7 +47,7 @@ Chính vì lý do đó khi ta dùng `cout` để in ra màn hình thì nó sẽ 
 Tất nhiên là được. Khi ra sử dụng `boolalpha` trong thư viện `std`.
 
  
-![2.1.2](./2.1.2.png?raw=true)
+![hinh2](./2.1.2.png)
 
 **Kết quả :**
 
